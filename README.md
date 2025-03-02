@@ -87,7 +87,7 @@
   - 검증 데이터 정확도: **81.4%** / 테스트 데이터 정확도: **78.5%**
   - 부상 확률을 선수 평가(overall) 점수에 반영하여 최종 점수 조정 (부상 확률이 높은 선수의 overall 점수를 log 스케일을 적용하여 감소) (부상 확률이 높은 선수의 overall 점수를 log 스케일을 적용하여 감소)
 
-![results](./Readme_images/overall.png)
+<img src="./Readme_images/overall.png" width="500">
 
 
 ### 6. 최종 로스터 구성 및 샐러리캡 고려
